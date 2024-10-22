@@ -4,3 +4,5 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 .DS_Store
+pagekage-lock.json
+state.json
